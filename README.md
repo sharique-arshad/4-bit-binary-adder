@@ -62,7 +62,8 @@ The DIP switches act as inputs (A3–A0 and B3–B0), and LEDs display the outpu
 ## 📸 Project Image
 Here’s the actual circuit implementation on a breadboard:
 
-![4-Bit Binary Adder Circuit](./1714161212418.jpg)
+![4-Bit Binary Adder Circuit]![1714161212418](https://github.com/user-attachments/assets/98b90820-31c8-4fef-9846-c0ab7858ce95)
+
 
 ---
 
@@ -87,7 +88,7 @@ Here’s the actual circuit implementation on a breadboard:
 B.Tech in Electronics and Communication Engineering (ECE)  
 Lovely Professional University  
 
-📫 [GitHub Profile](https://github.com/YourUsername)  
+📫 [GitHub Profile](https://github.com/sh4riq)  
 💬 “Building circuits that bring logic to life.”
 
 ---
