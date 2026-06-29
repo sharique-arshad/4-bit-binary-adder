@@ -86,7 +86,7 @@ Here’s the actual circuit implementation on a breadboard:
 ## 👨‍💻 Author
 - **Mohammad Sharique Arshad** 
 - **Sakshi Sharma** 
--B.Tech in Electronics and Communication Engineering (ECE)  
+- B.Tech in Electronics and Communication Engineering (ECE)  
 Lovely Professional University  
 
 📫 [GitHub Profile](https://github.com/sh4riq)  
